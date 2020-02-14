@@ -6,6 +6,7 @@ Training done using the yolo_tiny .cfg file
 Weights file can be downloaded from the link:(https://drive.google.com/open?id=175uX_5y1D4RvWB2HDjkAa-Q-xdTlPISp)
 
 Screenshots of predictions:
+
 ![](images/img1.jpg)
 
 ![](images/img2.png)
